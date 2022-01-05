@@ -1,7 +1,7 @@
 # lc
 
 Repository for deliberate practice. It is inspired by Peter Norvig repository on
-Python /études/: [pytudes](https://github.com/norvig/pytudes/).
+Python _études_: [pytudes](https://github.com/norvig/pytudes/).
 
 ## Foreword
 
